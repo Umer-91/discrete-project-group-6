@@ -53,6 +53,8 @@ triads.py classifies and counts the connected triads.
 null_model.py randomizes the edges and checks that degrees stay the same.
 results.py calculates Z-scores and creates the chart.
 motifs_R3088.png shows the Z-scores for both departments.
+draw_networks uses result from data to create a picture of all nodes and edges 
+department_5_network and department_7_network is the pictorial representation of data.py
 
 How the method works
 
